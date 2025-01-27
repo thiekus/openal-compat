@@ -1,3 +1,6 @@
+.vscode
+*.so
+
 # Prerequisites
 *.d
 
